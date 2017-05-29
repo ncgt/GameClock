@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<meta>
+  <info
+		name="GameClock"
+		author="NCUNHA"
+		description="Simple Script to handle in-game time"
+		version="1.0"
+		type="script"
+	/>
+  <script
+		src="GameClock.cs"
+		type="server"
+		lang="csharp"
+	/>
+</meta>
